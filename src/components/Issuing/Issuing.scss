@@ -1,0 +1,34 @@
+@mixin border-card {
+  border: 1px solid black;
+  border-radius: 8px;
+  margin: 10px;
+  width: 100px;
+  height: 150px;
+}
+
+@mixin pos-content {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.issuing {
+  display: flex;
+  .surrender {
+    @include border-card();
+    @include pos-content();
+    font-size: 14px;
+  }
+  .purchase {
+    @include border-card();
+    height: 150px;
+    .purchase-product {
+      @include pos-content();
+      height: 100%;
+      &:hover {
+        background-color: white;
+      }
+    }
+  }
+}
