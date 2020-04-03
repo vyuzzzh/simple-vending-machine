@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/simple-vending-machine/static/css/main.4a1af7fb.chunk.css",
+    "main.js": "/simple-vending-machine/static/js/main.e3fe6c7b.chunk.js",
+    "main.js.map": "/simple-vending-machine/static/js/main.e3fe6c7b.chunk.js.map",
+    "runtime-main.js": "/simple-vending-machine/static/js/runtime-main.fa328485.js",
+    "runtime-main.js.map": "/simple-vending-machine/static/js/runtime-main.fa328485.js.map",
+    "static/js/2.cb56d128.chunk.js": "/simple-vending-machine/static/js/2.cb56d128.chunk.js",
+    "static/js/2.cb56d128.chunk.js.map": "/simple-vending-machine/static/js/2.cb56d128.chunk.js.map",
+    "index.html": "/simple-vending-machine/index.html",
+    "precache-manifest.e31ae44b05ed90a3e46697c33a99daa9.js": "/simple-vending-machine/precache-manifest.e31ae44b05ed90a3e46697c33a99daa9.js",
+    "service-worker.js": "/simple-vending-machine/service-worker.js",
+    "static/css/main.4a1af7fb.chunk.css.map": "/simple-vending-machine/static/css/main.4a1af7fb.chunk.css.map",
+    "static/js/2.cb56d128.chunk.js.LICENSE.txt": "/simple-vending-machine/static/js/2.cb56d128.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa328485.js",
+    "static/js/2.cb56d128.chunk.js",
+    "static/css/main.4a1af7fb.chunk.css",
+    "static/js/main.e3fe6c7b.chunk.js"
+  ]
+}
