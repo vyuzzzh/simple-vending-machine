@@ -1,4 +1,5 @@
 import React from 'react';
+
 import Surrender from '../Surrender/Surrender';
 import Purchase from '../Purchase/Purchase';
 import './Issuing.scss';

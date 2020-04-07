@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/click-events-have-key-events */
 import React from 'react';
+
 import './Purchase.scss';
 
 const Purchase = ({
